@@ -22,6 +22,6 @@ Perfect for learning quantum computing basics, experimenting with quantum algori
 Clone the repo and use in Node.js or browser environment.
 
 ```bash
-git clone https://github.com/yourusername/quantum-js-sim.git
+git clone https://github.com/tawfiqio/quantum-js-sim.git
 cd quantum-js-sim
 npm install  # (optional, if you add tests or tools)
